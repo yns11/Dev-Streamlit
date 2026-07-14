@@ -1,0 +1,8 @@
+# Versions épinglées (CDC) : une montée de version ne peut pas casser l'app.
+# streamlit 1.38.0 = version préinstallée du runtime Databricks Apps (install rapide).
+streamlit==1.38.0
+databricks-sql-connector==3.7.3
+databricks-sdk==0.38.0
+pandas==2.2.3
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
