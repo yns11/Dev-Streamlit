@@ -1,0 +1,7 @@
+/.claude
+__pycache__/
+*.pyc
+# Fichiers verrou Word (document ouvert)
+~$*
+# Artefacts de déploiement bundle
+.databricks/
